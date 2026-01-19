@@ -59,5 +59,4 @@ Intended for research, testing, and educational purposes only.
 ---
 
 ## 📜 License
-
-MIT License — no warranties, no restrictions.
+WTFPL
