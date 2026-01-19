@@ -24,11 +24,12 @@ Just raw proxy data.
 
 Use these links directly in your applications, scripts, bots, or tools.
 
-| Protocol | Raw URL |
+| Protocol | Raw File URL |
 |--------|--------|
-| **HTTP** | `https://raw.githubusercontent.com/0x1881/Free-Proxy-List/main/http.txt` |
-| **SOCKS4** | `https://raw.githubusercontent.com/0x1881/Free-Proxy-List/main/socks4.txt` |
-| **SOCKS5** | `https://raw.githubusercontent.com/0x1881/Free-Proxy-List/main/socks5.txt` |
+| **HTTP** | <a href="https://raw.githubusercontent.com/0x1881/Free-Proxy-List/main/http.txt">http.txt</a> |
+| **HTTPS** | <a href="https://raw.githubusercontent.com/0x1881/Free-Proxy-List/main/https.txt">https.txt</a> |
+| **SOCKS4** | <a href="https://raw.githubusercontent.com/0x1881/Free-Proxy-List/main/socks4.txt">socks4.txt</a> |
+| **SOCKS5** | <a href="https://raw.githubusercontent.com/0x1881/Free-Proxy-List/main/socks5.txt">socks5.txt</a> |
 
 Each file contains one proxy per line: IP:PORT
 
